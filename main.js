@@ -10,6 +10,12 @@ const sayiSabit = 100;
 //merge icin satir
 let bos = null;
 let check = false;
+//confilict cozuldu
+let deger = null;
+let soyisim;
+console.log(isim + soyisim);
+
+
 
 
 /*****
