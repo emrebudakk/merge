@@ -7,8 +7,9 @@ let name = "Java";
 const sabitSayi = 10;
 var degisken = "Var artik pek kullanilmiyormus";
 const sayiSabit = 100;
-
-
+//merge icin satir
+let bos = null;
+let check = false;
 
 
 /*****
