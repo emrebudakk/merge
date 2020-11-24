@@ -7,7 +7,9 @@ let name = "Java";
 const sabitSayi = 10;
 var degisken = "Var artik pek kullanilmiyormus";
 const sayiSabit = 100;
-
+let deger = null;
+let soyisim;
+console.log(isim + soyisim);
 
 
 
